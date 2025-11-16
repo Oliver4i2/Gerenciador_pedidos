@@ -24,7 +24,17 @@ Métodos HTTP
 
 Verbos que definem a ação a ser executada sobre o recurso.
 
-GET, POST, PUT/PATCH, DELETE
+GET/pedidos
+<img width="1280" height="1024" alt="Get_listarpedidos" src="https://github.com/user-attachments/assets/7683d5df-b320-4053-b361-db45853795c4" />
+GET/pedidos{pedidos_id}
+<img width="1280" height="1024" alt="Ler_pedido" src="https://github.com/user-attachments/assets/89d6e9c8-6d0b-454f-86e5-528516d0a72a" />
+POST/pedidos
+<img width="1280" height="1024" alt="Criar_pedido" src="https://github.com/user-attachments/assets/ea49fa70-d09b-43a0-bb57-42508dad0fdb" />
+PUT/pedidos{pedido_id}
+<img width="1280" height="1024" alt="Criar_pedido" src="https://github.com/user-attachments/assets/33990464-9467-490e-bbc1-32736b054551" />
+DELETE/pedidos{pedidos_id}
+<img width="1280" height="1024" alt="Deletar_pedido" src="https://github.com/user-attachments/assets/4dcac849-a669-488a-8332-e93a09db7f7b" />
+
 
 Formato de Dados
 
